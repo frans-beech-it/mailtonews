@@ -11,8 +11,8 @@
  ***************************************************************/
 
 $EM_CONF[$_EXTKEY] = array(
-	'title' => 'Import mails to EXT:news',
-	'description' => 'Most simple way to write news entries, by just sending a mail to a specific email address',
+	'title' => 'Import mails to EXT:news - Beech IT version',
+	'description' => 'Most simple way to write news entries, by just sending a mail to a specific email address. See: https://github.com/frans-beech-it/mailtonews',
 	'category' => 'be',
 	'author' => 'Georg Ringer',
 	'author_email' => 'typo3@ringerge.org',
